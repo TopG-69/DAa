@@ -1,4 +1,4 @@
-![logo](https://github.com/TopG-69/DAa/blob/main/RRR.gif)
+![logo](https://github.com/TopG-69/DAa/blob/main/rrr2.gif)
 
 <h1 align="center">Hello, I'm death</h1>
 <h3 align="center">A unpassionate developer.</h3>
