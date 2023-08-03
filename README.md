@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm death</h1>
 <h3 align="center">A unpassionate developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daa&label=Profile%20views&color=0e75b6&style=plastic" alt="daa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daa&label=Profile%20views&color=0e75b6&style=flat" alt="daa" /> </p>
 
 - Currently developing **DAa**
 
