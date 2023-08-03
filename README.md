@@ -1,3 +1,5 @@
+![logo](https://github.com/TopG-69/DAa/blob/main/R.gif)
+
 <h1 align="center">Hello, I'm death</h1>
 <h3 align="center">A unpassionate developer.</h3>
 
